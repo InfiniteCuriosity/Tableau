@@ -1,2 +1,2 @@
 # Tableau
-This is where I'll store visualizations (or links to my visualizations) made using Tableau Public
+This is where I'll store links to my visualizations made using Tableau Public
